@@ -1,0 +1,6 @@
+{
+  "name": "Portal Acolher - Enfrentamento à Violência Doméstica",
+  "description": "Plataforma interativa e protótipo de sistema para apoio, conscientização sobre a Lei Maria da Penha, canais de emergência e documentação acadêmica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
